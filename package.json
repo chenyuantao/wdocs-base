@@ -1,6 +1,11 @@
 {
-  "name": "wdocs-spa",
+  "name": "wdocs-base",
   "version": "0.1.0",
+  "author": {
+    "name": "towerchen",
+    "email": "towerchen@tencent.com"
+  },
+  "license": "UNLICENSED",
   "scripts": {
     "reset": "rm -rf node_modules",
     "dev": "modern dev",
